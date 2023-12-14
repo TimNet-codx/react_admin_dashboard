@@ -67,4 +67,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/
+troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# AN IMPORTANCE NOTE ABOUT THE PORJECT ON REACT ADMIN DASHBOARD APP
+
+# React Material UI is what i use to build this react admin dashboard app 
+This is here to get the React Material UI site: [https://mui.com/material-ui/getting-started/installation/]
+
+# React Admin Dashboard
+
+Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+
+This are some of the material ui install for the porject:npm i @mui/material, @emotion/react, @emotion/styled, @mui/x-data-grid, @mui/icons-material, react-router-dom@6, react-pro-sidebar, formik yup, @fullcalender/core, @fullcalender/daygrid, @fullcalender/timegrid, @fullcalendar/list, @nivo/core, @nivo/pie, @nivo/line, @nivo/bar, @nivo/geo ...... etc
+
+Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+
+For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+
